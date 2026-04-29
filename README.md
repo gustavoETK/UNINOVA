@@ -10,4 +10,6 @@ Antes de iniciar, ativar o xampp com apache
         PhP
 
 Este site é completamente demonstrativo sem intuito de ser algo corporativo
-todos os direitos estão reservados para os colaboradores deste projeto *&copy*
+todos os direitos estão reservados para os colaboradores deste projeto
+
+*_©uninova. Todos os direitos reservados._*
