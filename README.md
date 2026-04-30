@@ -87,7 +87,7 @@ O **UNINOVA** é um portal acadêmico universitário completo, construído em um
 
 3. **Acesse no navegador:**
    ```
-   http://localhost:8000/enviar_v2.0.php
+   http://localhost/uninova
    ```
 
 4. **Faça login** com qualquer uma das contas demo listadas acima.
@@ -254,7 +254,7 @@ Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 3. **Open in your browser:**
    ```
-   http://localhost:8000/enviar_v2.0.php
+   http://localhost/uninova
    ```
 
 4. **Log in** using any of the demo accounts listed above.
