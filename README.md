@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Single File](https://img.shields.io/badge/Single%20File-App-00DDB0?style=for-the-badge)
 
-*O maior portal universitário já codificado por uma IA — em um único arquivo PHP.*
+*O projeto é um portal universitário*
 
 </div>
 
@@ -177,7 +177,7 @@ Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Single File](https://img.shields.io/badge/Single%20File-App-00DDB0?style=for-the-badge)
 
-*The largest university portal ever coded by an AI — in a single PHP file.*
+*The project is a university portal.*
 
 </div>
 
